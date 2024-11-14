@@ -1,25 +1,25 @@
-// bom methods
-// 1.location
-location.href="practice.html"
-location.assign="practice.html"
+// // bom methods
+// // 1.location
+// location.href="practice.html"
+// location.assign="practice.html"
 
-// history
+// // history
 
-history.back()
-history.forward()
-history.go()
+// history.back()
+// history.forward()
+// history.go()
 
-// popups
+// // popups
 
-alert("this is alert popup")
-prompt("this is promt popup")
-confirm()
-close() & open()
-console.warn("be carefull")
-window.open("practice.html")
+// alert("this is alert popup")
+// prompt("this is promt popup")
+// confirm()
+// close() & open()
+// console.warn("be carefull")
+// window.open("practice.html")
 
-// screen
+// // screen
 
-screen.innerHeight
-screen.innerWidth
-screen.pixelDepth
+// screen.innerHeight
+// screen.innerWidth
+// screen.pixelDepth
